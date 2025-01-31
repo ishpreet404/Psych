@@ -9,7 +9,7 @@ export default function About() {
           <div className="relative group">
             <div className="absolute -inset-4 bg-green-100 rounded-lg opacity-0 group-hover:opacity-100 transition-opacity duration-300"></div>
             <img
-              src="https://images.unsplash.com/photo-1544005313-94ddf0286df2?ixlib=rb-1.2.1&auto=format&fit=crop&w=800&q=80"
+              src="https://cdn.discordapp.com/attachments/1332007703991554068/1334921457804902524/IMG_4868.jpeg?ex=679e49fd&is=679cf87d&hm=65793a9a8be51ed1de88391ab447ecbcc78ff3b095264e04fea55127b19e2b15&"
               alt="Dr. Sarah Mitchell"
               className="rounded-lg shadow-lg object-cover relative transform transition duration-500 ease-in-out group-hover:scale-105 group-hover:rotate-1"
             />
@@ -23,8 +23,7 @@ export default function About() {
             </RevealText>
             <RevealText delay={200}>
               <p className="text-gray-600 mb-6">
-              As a graduate in Applied Clinical Psychology, I specialize in supporting individuals through evidence-based approaches, blending psychological research with modern therapeutic strategies. My work focuses on fostering resilience, self-awareness, and emotional well-being through compassionate and informed care.
-              </p>
+              I'm driven by a purpose to revolutionize mental wellness care through community-facilitated, evidence-guided interventions. As a founder at Unfiltered, I'm building an inviting, safe community for mental wellness programs and groups, and for people to confront life's challenges with confidence and awareness. I have a background in neurodiverse care, psychological interventions, and evidence-guided mental wellness interventions, with a strong commitment to shattering stigma, community creation, and providing meaningful impact in mental wellness advocacy. Unfiltered isn't a platform, it's a movement.              </p>
             </RevealText>
             <div className="grid grid-cols-2 gap-4">
               <RevealText direction="left" delay={400}>
