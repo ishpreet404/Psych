@@ -5,7 +5,7 @@ export default function Hero() {
   return (
     <div className="relative min-h-screen flex items-center justify-center bg-gradient-to-b from-green-50 to-white">
       <div className="absolute inset-0 overflow-hidden">
-        <div className="absolute inset-0 bg-[url('https://cdn.discordapp.com/attachments/1332007703991554068/1334920360625180722/image1.png?ex=679e48f7&is=679cf777&hm=30253d719f5eb418fa62bdb018c8ddd9e490f2c7495d6fafd352c25ed33e1230&')] bg-cover bg-center opacity-10"></div>
+        <div className="absolute inset-0 bg-[url('https://i.ibb.co/F4ZdbZf5/logoo.png')] bg-cover bg-center opacity-10"></div>
       </div>
       
       <div className="relative max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 text-center">

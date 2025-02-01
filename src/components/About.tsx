@@ -9,7 +9,7 @@ export default function About() {
           <div className="relative group">
             <div className="absolute -inset-4 bg-green-100 rounded-lg opacity-0 group-hover:opacity-100 transition-opacity duration-300"></div>
             <img
-              src="https://cdn.discordapp.com/attachments/1332007703991554068/1334921457804902524/IMG_4868.jpeg?ex=679e49fd&is=679cf87d&hm=65793a9a8be51ed1de88391ab447ecbcc78ff3b095264e04fea55127b19e2b15&"
+              src="https://i.ibb.co/MySkTWfR/IMG-4868.jpg"
               alt="Dr. Sarah Mitchell"
               className="rounded-lg shadow-lg object-cover relative transform transition duration-500 ease-in-out group-hover:scale-105 group-hover:rotate-1"
             />
