@@ -38,8 +38,7 @@ export default function Contact() {
             <div className="space-y-4">
               <div className="flex items-center">
                 <Mail className="h-6 w-6 text-green-600 mr-3" />
-                <span className="text-gray-600">unfiltered@outlook.in
-                </span>
+                <span className="text-gray-600">unfiltered@outlook.in</span>
               </div>
               <div className="flex items-center">
                 <Phone className="h-6 w-6 text-green-600 mr-3" />
