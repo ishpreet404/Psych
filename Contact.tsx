@@ -47,7 +47,7 @@ export default function Contact() {
               </div>
               <div className="flex items-center">
                 <MapPin className="h-6 w-6 text-green-600 mr-3" />
-                <span className="text-gray-600">123 Healing Street, Suite 100<br />Los Angeles, CA 90001</span>
+                <span className="text-gray-600">New Delhi, India || Bath, UK</span>
               </div>
             </div>
           </div>
